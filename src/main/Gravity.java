@@ -10,8 +10,13 @@ package main;
 public class Gravity {
 	// TODO 1: Create the main method
 	public static void main(String[] args) {
+
+        double time;
+        double distance;
+        double speed;
+
 		/* TODO 2:
-		 *   a. Declare all your necessary variables inside main method.
+         *   a.
 		 *   b. Declare a constant for 'gravity', assume the value to be 9.8
 		 *   c. Calculate the result and print it to the screen.
 		 * */
