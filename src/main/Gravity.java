@@ -24,13 +24,6 @@ public class Gravity {
         System.out.printf(" The speed of the object at " + time + " seconds after its release is" + speed + " and the distance the object has travelled in the" + time + " seconds after the relase is" + distance);
 
 
-
-
-		/* TODO 2:
-         *   a.
-         *   b.
-         *   c.
-		 * */
-	}
+    }
 	// P.S: Refer to the README.md file for the problem statement, input & output.
 }
